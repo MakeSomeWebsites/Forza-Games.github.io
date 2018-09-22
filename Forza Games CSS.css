@@ -1,0 +1,48 @@
+		body {
+		background-color: rgb(39, 38, 40)
+		}
+		
+		div.box {
+		text-align: center;
+		}
+		
+		img{
+		border: 3.5px solid;
+		}
+		
+		p {
+		text-align: left;
+		color: white;
+		font-weight: medium;
+		font-size: 20px;
+		font-family: sans-serif;
+		}
+		
+		h1 {
+		text-align: center;
+		font-weight: bolder;
+		font-size: 50px;
+		color: white;
+		}
+		
+		h2 {
+		text-align: center;
+		font-weight: bold;
+		font-size: 40px;
+		color: white;
+		}
+		
+		h4 {
+		text-align: center;
+		font-weight: bold;
+		font-size: 30px;
+		color: white;
+		}
+		
+		h5 {
+		color: white;
+		text-align: center;
+		font-weight: lighter;
+		font-size: 15px;
+		font-family: sans-serif;
+		}
