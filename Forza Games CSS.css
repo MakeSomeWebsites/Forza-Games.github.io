@@ -5,6 +5,10 @@
 		div.box {
 		text-align: center;
 		}
+
+		#headimg {
+		text-align: left;
+		}
 		
 		img{
 		border: 3.5px solid;
@@ -37,6 +41,13 @@
 		font-weight: bold;
 		font-size: 30px;
 		color: white;
+		}
+
+		h3 {
+		color: white;
+		font-weight: less-bold;
+		font-size: 25px;
+		text align: center;
 		}
 		
 		h5 {
