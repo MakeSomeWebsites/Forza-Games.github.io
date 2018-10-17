@@ -4,6 +4,8 @@
 		
 		div.box {
 		text-align: center;
+		position: absolute;
+		top: -15px
 		}
 		
 		img{
