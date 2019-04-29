@@ -2,15 +2,31 @@
 		background-color: rgb(39, 38, 40)
 		}
 		
-		div.box {
-		text-align: center;
-		}
-
+		
+		
 		div.head-img {
 		text-align: center;
 		position: relative;
-		top: -40px;
+		top: -10px;
+		bottom: -1000px;
+		margin: 10px;
+		padding: 10px;
+		}
+
+		div.subhead-img {
+		text-align: center;
+		position: relative;
+		top: 0px;
 		bottom: -80px;
+		margin: 10px;
+		padding: 10px;
+		}
+		
+		div.head-img2 {
+		text-align: center;
+		position: relative;
+		top: -10px;
+		bottom: -200px;
 		margin: 5px;
 		padding: 5px;
 		}
@@ -19,12 +35,15 @@
 		border: 3.5px solid;
 		}
 		
+		
+		
 		p {
 		text-align: left;
 		color: white;
 		font-weight: medium;
 		font-size: 20px;
 		font-family: sans-serif;
+		
 		}
 		
 		h1 {
@@ -53,6 +72,7 @@
 		font-weight: less-bold;
 		font-size: 30px;
 		text-align: center;
+		margin: 15px;
 		}
 		
 		h5 {
@@ -61,4 +81,51 @@
 		font-weight: lighter;
 		font-size: 15px;
 		font-family: sans-serif;
+		margin: 15px;
+		margin-top: -20px;
+		margin-bottom: 40px;
+		}
+		
+		
+		
+		div.nav-menu {
+			border-style: solid;
+			border-color: black;
+			border-width: 1.75px;
+		}
+		
+		* {
+			margin: 0;
+			padding: 0;
+		}
+		
+		nav {
+			width: 100%;
+			height: 75px;
+			background-color: #fff;
+			margin-bottom: 10px;
+		}
+		
+		ul {
+			
+		}
+		
+		ul, li {
+			list-style: none;
+			display: inline-block;
+			float: left;
+			line-height: 75px;
+		}
+		
+		ul, li, a:hover {
+			color: red;
+		}
+		
+		ul, li, a {
+			display: block;
+			text-decoration: none;
+			font-size: 14px;
+			font-family: arial;
+			color: #1e1e1e;
+			padding: 0 20px 0 20px;
 		}
