@@ -42,15 +42,15 @@
 		font-weight: medium;
 		font-size: 20px;
 		font-family: sans-serif;
-		width: 80%
+		width: 90%
 		}
 
 		div.p {
 		position: relative;
-		left: 10%;
-		right: 10%;
-		margin-left: 10%;
-		margin-right: 10%
+		left: 5%;
+		right: 5%;
+		margin-left: 5%;
+		margin-right: 5%
 		}
 		
 		h1 {
