@@ -72,6 +72,8 @@
 		font-weight: bold;
 		font-size: 40px;
 		color: white;
+		position: relative;
+		top: 5px;
 		}
 
 		h3 {
