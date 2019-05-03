@@ -42,16 +42,16 @@
 		font-weight: medium;
 		font-size: 20px;
 		font-family: sans-serif;
-		width: 90%;
+		width: 95%;
 		text-align: justify;
 		}
 
 		div.p {
 		position: relative;
-		left: 5%;
-		right: 5%;
-		margin-left: 5%;
-		margin-right: 5%
+		left: 2.5%;
+		right: 2.5%;
+		margin-left: 2.5%;
+		margin-right: 2.5%
 		}
 		
 		h1 {
